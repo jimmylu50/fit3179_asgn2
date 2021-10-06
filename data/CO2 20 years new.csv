@@ -1,0 +1,145 @@
+﻿Countries,Year,CO2
+Africa Eastern and Southern,2001,397075.6603
+Africa Eastern and Southern,2002,409057.1792
+Africa Eastern and Southern,2003,434533.1377
+Africa Eastern and Southern,2004,466883.2388
+Africa Eastern and Southern,2005,468365.6979
+Africa Eastern and Southern,2006,476590.2999
+Africa Eastern and Southern,2007,500147.1845
+Africa Eastern and Southern,2008,533634.5146
+Africa Eastern and Southern,2009,515682.5438
+Africa Eastern and Southern,2010,543808.6518
+Africa Eastern and Southern,2011,535604.3575
+Africa Eastern and Southern,2012,559333.8573
+Africa Eastern and Southern,2013,580510.925
+Africa Eastern and Southern,2014,601860.164
+Africa Eastern and Southern,2015,586385.004
+Africa Eastern and Southern,2016,592299.594
+Africa Eastern and Southern,2017,601323.3947
+Africa Eastern and Southern,2018,600351.1333
+Africa Western and Central,2001,130120
+Africa Western and Central,2002,133840
+Africa Western and Central,2003,137380
+Africa Western and Central,2004,141040
+Africa Western and Central,2005,155650
+Africa Western and Central,2006,153210
+Africa Western and Central,2007,153350
+Africa Western and Central,2008,157600
+Africa Western and Central,2009,145550
+Africa Western and Central,2010,165750
+Africa Western and Central,2011,179070
+Africa Western and Central,2012,181740
+Africa Western and Central,2013,191990
+Africa Western and Central,2014,198440
+Africa Western and Central,2015,193060
+Africa Western and Central,2016,195120
+Africa Western and Central,2017,201900
+Africa Western and Central,2018,224380
+East Asia & Pacific,2001,6734567.923
+East Asia & Pacific,2002,7102051.612
+East Asia & Pacific,2003,7805467.659
+East Asia & Pacific,2004,8640176.286
+East Asia & Pacific,2005,9406374.858
+East Asia & Pacific,2006,10068470.88
+East Asia & Pacific,2007,10757242.91
+East Asia & Pacific,2008,10956090.96
+East Asia & Pacific,2009,11446424.06
+East Asia & Pacific,2010,12423292.88
+East Asia & Pacific,2011,13409665.63
+East Asia & Pacific,2012,13756716.1
+East Asia & Pacific,2013,14185336.65
+East Asia & Pacific,2014,14155188.45
+East Asia & Pacific,2015,14136568.74
+East Asia & Pacific,2016,14170430.39
+East Asia & Pacific,2017,14433707.89
+East Asia & Pacific,2018,14810056.87
+Europe & Central Asia,2001,6499102.998
+Europe & Central Asia,2002,6509151.123
+Europe & Central Asia,2003,6701217.57
+Europe & Central Asia,2004,6730269.974
+Europe & Central Asia,2005,6710554.411
+Europe & Central Asia,2006,6844736.256
+Europe & Central Asia,2007,6835622.546
+Europe & Central Asia,2008,6808431.644
+Europe & Central Asia,2009,6281559.091
+Europe & Central Asia,2010,6542802.068
+Europe & Central Asia,2011,6555060.508
+Europe & Central Asia,2012,6516141.965
+Europe & Central Asia,2013,6383963.134
+Europe & Central Asia,2014,6107967.965
+Europe & Central Asia,2015,6069600.25
+Europe & Central Asia,2016,6089580.306
+Europe & Central Asia,2017,6148128.377
+Europe & Central Asia,2018,6142069.263
+Latin America & Caribbean,2001,1276987.196
+Latin America & Caribbean,2002,1283696.25
+Latin America & Caribbean,2003,1298313.857
+Latin America & Caribbean,2004,1354314.131
+Latin America & Caribbean,2005,1409297.882
+Latin America & Caribbean,2006,1445292.976
+Latin America & Caribbean,2007,1505460.996
+Latin America & Caribbean,2008,1563575.639
+Latin America & Caribbean,2009,1531575.482
+Latin America & Caribbean,2010,1613466.607
+Latin America & Caribbean,2011,1675332.222
+Latin America & Caribbean,2012,1734371.901
+Latin America & Caribbean,2013,1778631.33
+Latin America & Caribbean,2014,1790321.349
+Latin America & Caribbean,2015,1782849.902
+Latin America & Caribbean,2016,1747810.34
+Latin America & Caribbean,2017,1713340.032
+Latin America & Caribbean,2018,1689187.436
+Middle East & North Africa,2001,1350731.384
+Middle East & North Africa,2002,1409355.014
+Middle East & North Africa,2003,1459139.449
+Middle East & North Africa,2004,1544912.753
+Middle East & North Africa,2005,1669805.265
+Middle East & North Africa,2006,1769544.698
+Middle East & North Africa,2007,1860354.638
+Middle East & North Africa,2008,1972254.236
+Middle East & North Africa,2009,2056000.846
+Middle East & North Africa,2010,2139556.826
+Middle East & North Africa,2011,2181023.789
+Middle East & North Africa,2012,2307912.896
+Middle East & North Africa,2013,2351557.05
+Middle East & North Africa,2014,2443881.993
+Middle East & North Africa,2015,2477603.373
+Middle East & North Africa,2016,2495121.234
+Middle East & North Africa,2017,2529043.276
+Middle East & North Africa,2018,2531611.759
+North America,2001,6258891.82
+North America,2002,6122272.845
+North America,2003,6207669.708
+North America,2004,6279990.928
+North America,2005,6308773.353
+North America,2006,6200326.539
+North America,2007,6314305.741
+North America,2008,6116180.214
+North America,2009,5682803.136
+North America,2010,5930460.043
+North America,2011,5722290.181
+North America,2012,5499724.105
+North America,2013,5648288.236
+North America,2014,5666856.252
+North America,2015,5543983.21
+North America,2016,5441468.957
+North America,2017,5378301.689
+North America,2018,5558099.304
+South Asia,2001,1095440
+South Asia,2002,1133540
+South Asia,2003,1167850
+South Asia,2004,1254230
+South Asia,2005,1312050
+South Asia,2006,1400870
+South Asia,2007,1540250
+South Asia,2008,1629080
+South Asia,2009,1781870
+South Asia,2010,1884320
+South Asia,2011,1991420
+South Asia,2012,2145490
+South Asia,2013,2203550
+South Asia,2014,2389180
+South Asia,2015,2422620
+South Asia,2016,2479230
+South Asia,2017,2622720
+South Asia,2018,2770040
