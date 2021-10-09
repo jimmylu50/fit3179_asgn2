@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300, "height": 200,
+  "title": "CO2 emission in continents",
+  "data": {"url": "https://raw.githubusercontent.com/jimmylu51/fit3179_asgn2/main/data/CO2%2020%20years%20new.csv"},
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "timeUnit": "year", "field": "Year",
+      "axis": {"format": "%Y"},
+      "title": "Year"
+    },
+    "y": {
+      "aggregate": "sum", "field": "CO2", "title": "CO2 Emissions in Kilotonnes"
+    },
+    "color": {
+      "field": "Countries",
+      "scale": {
+        "range": [
+                  "#1b9e77", "#d95f02",  "#1f78b4", "#a6cee3", "#7570b3", "#b2df8a", "#66c2a5", "#fc8d62"
+                  ]
+      }
+    }
+  }
+}
