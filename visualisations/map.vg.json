@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "GDP per capita by each country in 2018",
-  "width": 500,
+  "width": 800,
   "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/jimmylu51/fit3179_asgn2/main/data/map.json",
