@@ -31,6 +31,8 @@
           "bind": "scales"
         }
       ],
+      "width": 150,
+      "height": 150,
       "encoding": {
         "x": {"field": {"repeat": "column"}, 
               "type": "quantitative",
@@ -56,4 +58,3 @@
       }
     }
   }
-  
