@@ -31,14 +31,15 @@
       "color": {
           "field": "Life_exp",
           "type": "quantitative",
-          "scale":{"scheme": "yellowgreenblue"}
+          "scale":{"scheme": "yellowgreenblue"},
+          "title": "Life Expectancy"
       },
       "opacity": {"value": 0.6},
     "tooltip":[
       {"field": "Row", "type": "nominal", "title": "Country"}, 
       {"field": "Population", "type": "quantitative", "format": ","}, 
       {"field": "CO2", "type": "quantitative", "format": ","}, 
-      {"field": "Life_exp", "type": "quantitative", "format": ","}
+      {"field": "Life_exp", "type": "quantitative", "format": ",", "title": "Life Expectancy"}
     ]
   }
 }
