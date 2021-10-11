@@ -4,6 +4,11 @@
   "title": "CO2 emission in continents",
   "data": {"url": "https://raw.githubusercontent.com/jimmylu51/fit3179_asgn2/main/data/CO2%2020%20years%20new.csv"},
   "mark": "area",
+  "params": [{
+    "name": "industry",
+    "select": {"type": "point", "fields": ["Countries"]},
+    "bind": "legend"
+  }],
   "encoding": {
     "x": {
       "timeUnit": "year", "field": "Year",
@@ -19,7 +24,12 @@
         "range": [
                   "#1b9e77", "#d95f02",  "#1f78b4", "#a6cee3", "#7570b3", "#b2df8a", "#66c2a5", "#fc8d62"
                   ]
-      }
+      },
+      "title": "Continents"
+    },
+    "opacity": {
+      "condition": {"param": "industry", "value": 1},
+      "value": 0.2
     }
   }
 }
