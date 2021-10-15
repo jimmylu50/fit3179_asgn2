@@ -1,6 +1,7 @@
 
 .body {
     font-family: 'Source Sans Pro', sans-serif;
+    size: 40px;
 }
 
 h1 {
@@ -13,7 +14,7 @@ body {
 }
 
 .page {
-    width: 1600px;
+    width: 1700px;
     background-color: white;
     margin: auto;
     padding: 50px;
@@ -38,7 +39,7 @@ h1 {
 .description-right2 {
     padding-left: 120px;
     padding-right: 100px;
-    padding-top: 120px;
+    padding-top: 100px;
 }
 
 .desc-right {
