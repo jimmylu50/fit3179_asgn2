@@ -26,7 +26,8 @@
           "field": "CO2",
           "type": "quantitative",
           "axis": {"tickCount": 7}, 
-          "scale": {"type": "log", "domain": [1, 50000000]}
+          "scale": {"type": "log", "domain": [1, 50000000]},
+          "title": "CO2 Emission (Kilotonnes)"
       },
       "color": {
           "field": "Life_exp",
