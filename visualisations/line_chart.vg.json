@@ -4,8 +4,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/jimmylu51/fit3179_asgn2/main/data/Basic%20Sanitation%20final.csv"
   },
-  "width": 500,
-  "height": 400,
+  "width": 400,
+  "height": 300,
   "layer": [
     {
       "encoding": {
