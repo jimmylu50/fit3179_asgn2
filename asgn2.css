@@ -3,8 +3,17 @@
     size: 40px;
 }
 
+
 h1 {
-    font-weight: 900;
+    font-family: 'Kalam', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -13,11 +22,10 @@ body {
 }
 
 .page {
-    width: 1700px;
+    width: 1080px;
     background-color: white;
     margin: auto;
     padding: 50px;
-    padding-top: 35px;
 }
 
 .vis-container {
@@ -52,36 +60,35 @@ h1 {
 }
 
 .description-right {
-    padding-left: 120px;
-    padding-right: 100px;
-    padding-top: 50px;
+    padding-left: 200px;
 }
 
 .description-right2 {
-    padding-left: 120px;
-    padding-right: 100px;
-    padding-top: 100px;
+    padding-left: 0px;
 }
 
 .desc-right {
-    padding-left: 110px;
+    padding-left: 0px;
+}
+
+.desc-right3 {
+    padding-left: 30px;
 }
 
 .desc-left {
-    padding-left: 226px;
+    padding-left: 0px;
 }
 
 .desc-left2 {
-    padding-left: 100px;
+    padding-left: 0px;
 }
 
 .desc-left3 {
-    padding-left: 140px;
+    padding-right: 30px;
 }
 
 .description-left {
-    padding-left: 200px;
-    padding-top: 80px;
+    padding-left: 0px;
 }
 
 .pure-g {
@@ -89,5 +96,5 @@ h1 {
 }
 
 .small-font {
-    font-size: 14px;
+    font-size: 12px;
 }
