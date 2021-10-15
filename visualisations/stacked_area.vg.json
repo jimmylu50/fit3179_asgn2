@@ -30,6 +30,11 @@
     "opacity": {
       "condition": {"param": "industry", "value": 1},
       "value": 0.2
-    }
+    },
+    "tooltip": [
+          {"field": "Countries", "type": "nominal", "title": "Continent"},
+          {"field": "CO2", "type": "quantitative", "title": "CO2 in kt"},
+          {"field": "Year", "type": "temporal","timeUnit":"year", "title": "Year"}
+        ]
   }
 }
