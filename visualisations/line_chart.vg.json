@@ -10,8 +10,8 @@
     {
       "encoding": {
         "x": {"field": "Column", "type": "temporal", "title": "Year"},
-        "y": {"field": "Value", "type": "quantitative", "title":"Percentage of people with basic sanitation"},
-        "color": {"field": "Row", "type": "nominal", "title": "Continents"}
+        "y": {"field": "Value", "type": "quantitative", "title":"Percentage of people with basic sanitation (%)"},
+        "color": {"field": "Row", "type": "nominal", "title": "Continent"}
       },
       "layer": [
         {"mark": "line"},
