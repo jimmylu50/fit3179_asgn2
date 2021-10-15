@@ -1,4 +1,4 @@
-﻿Countries,Year,Population,CO2,Labor,Life_exp,Basic_san,CO2_pc,San_ppl,GDP_cp
+﻿Countries,Year,Population,CO2,Labor,Life Expectancy,Basic_san,CO2 Per Capita,San_ppl,GDP Per Capita
 Afghanistan,2001,21606992,810,5293409,56.308,21.88130402,0.037487865,4727891.609,..
 Afghanistan,2002,22600774,1100,5573459,56.784,23.27419282,0.0486709,5260147.72,330.3034944
 Afghanistan,2003,23680871,1350,5886907,57.271,24.66743482,0.057008038,5841463.419,343.0808897
