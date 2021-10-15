@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 400, "height": 300,
+  "width": 350, "height": 280,
   "title": "CO2 emission in continents",
   "data": {"url": "https://raw.githubusercontent.com/jimmylu51/fit3179_asgn2/main/data/CO2%2020%20years%20new.csv"},
   "mark": "area",
