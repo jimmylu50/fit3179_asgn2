@@ -16,7 +16,7 @@
       "title": "Year"
     },
     "y": {
-      "aggregate": "sum", "field": "CO2", "title": "CO2 Emissions in Kilotonnes"
+      "aggregate": "sum", "field": "CO2", "title": "CO2 Emissions (Kilotonnes)"
     },
     "color": {
       "field": "Countries",
@@ -25,7 +25,7 @@
                   "#1b9e77", "#d95f02",  "#1f78b4", "#a6cee3", "#7570b3", "#b2df8a", "#66c2a5", "#fc8d62"
                   ]
       },
-      "title": "Continents"
+      "title": "Continent"
     },
     "opacity": {
       "condition": {"param": "industry", "value": 1},
